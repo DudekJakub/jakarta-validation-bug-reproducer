@@ -1,6 +1,6 @@
 # jakarta-validation-bug-reproducer
 
-Reproductin of jakarta validation bug. 
+Reproduction of jakarta validation bug. 
 
 Following page: https://quarkus.io/guides/validation
 
